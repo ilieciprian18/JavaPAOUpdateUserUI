@@ -7,6 +7,12 @@ Aplicatia principala se poate deschide ruland clasa ***MainAppUI***, Interfata g
 
 ## Interfata aplicatie
 
+### Login
+
+![image](https://user-images.githubusercontent.com/61537857/209244380-432317c5-b509-4344-8b7c-c36c4d966114.png)
+
+![image](https://user-images.githubusercontent.com/61537857/209244409-8f93bc6f-c9da-4d8c-9561-185203b89559.png)
+
 ## Future Updates
 
 
