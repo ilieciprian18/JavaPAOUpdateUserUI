@@ -27,6 +27,9 @@ Campul de username are o verificare in plus in caz ca este deja luat deoarece us
 
 ![image](https://user-images.githubusercontent.com/61537857/209244540-67289ba6-b93a-4f85-ad08-a03ed194af58.png)
 
+![image](https://user-images.githubusercontent.com/61537857/209244810-c2856b3e-573d-4194-a1c6-ea7e07d35747.png)
+
+
 
 ## Future Updates
 
