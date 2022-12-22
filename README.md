@@ -29,6 +29,9 @@ Campul de username are o verificare in plus in caz ca este deja luat deoarece us
 
 ![image](https://user-images.githubusercontent.com/61537857/209244810-c2856b3e-573d-4194-a1c6-ea7e07d35747.png)
 
+### Select orase disponibile 
+
+![image](https://user-images.githubusercontent.com/61537857/209244926-b553b4a6-8016-44fb-943f-25a6e3b4a495.png)
 
 
 ## Future Updates
