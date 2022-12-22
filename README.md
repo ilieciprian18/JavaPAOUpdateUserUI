@@ -13,6 +13,21 @@ Aplicatia principala se poate deschide ruland clasa ***MainAppUI***, Interfata g
 
 ![image](https://user-images.githubusercontent.com/61537857/209244409-8f93bc6f-c9da-4d8c-9561-185203b89559.png)
 
+### Register
+
+```
+Toate campurile sunt verificate sa nu fie nule, aparand mesajele de "Required*" in dreptul lor daca sunt goale/nule.
+De asemenea campurile de email si telefon suint verificate sa fie valide.
+Campul de username are o verificare in plus in caz ca este deja luat deoarece usernameul trebuie sa fie unic.
+
+```
+
+![image](https://user-images.githubusercontent.com/61537857/209244564-c4cfbb68-ab86-4fbc-ae08-2c6949c78892.png)
+
+
+![image](https://user-images.githubusercontent.com/61537857/209244540-67289ba6-b93a-4f85-ad08-a03ed194af58.png)
+
+
 ## Future Updates
 
 
