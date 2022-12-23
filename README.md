@@ -47,6 +47,10 @@ Campul de username are o verificare in plus in caz ca este deja luat deoarece us
 
 ![image](https://user-images.githubusercontent.com/61537857/209245095-c31964a2-0ad9-46d1-85dc-19679b92ce07.png)
 
+### Meniu restaurant unde se plaseaza comanda
+
+![image](https://user-images.githubusercontent.com/61537857/209245186-9e221265-dbd7-4382-8f5b-01ab83e6d97f.png)
+
 
 ## Future Updates
 
