@@ -52,7 +52,7 @@ Campul de username are o verificare in plus in caz ca este deja luat deoarece us
 Numarul din dreapta butonului de "Add" ne arata cate produse din acel tip sunt in cos
 ```
 
-## Cos cu produse selectate (
+#### Cos cu produse selectate ( 3 meniuri crispy, 2 twister, 1 so good box, 1 ceva box )
 ![image](https://user-images.githubusercontent.com/61537857/209245186-9e221265-dbd7-4382-8f5b-01ab83e6d97f.png)
 
 
