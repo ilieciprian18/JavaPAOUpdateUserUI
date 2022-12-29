@@ -51,10 +51,29 @@ Campul de username are o verificare in plus in caz ca este deja luat deoarece us
 ```
 Numarul din dreapta butonului de "Add" ne arata cate produse din acel tip sunt in cos
 ```
+#### Nu sunt produse in cos
+![image](https://user-images.githubusercontent.com/61537857/209980561-027f3b02-30ad-4cc8-8199-a8916d090a6b.png)
+
 
 #### Cos cu produse selectate ( 3 meniuri crispy, 2 twister, 1 so good box, 1 ceva box )
-![image](https://user-images.githubusercontent.com/61537857/209245186-9e221265-dbd7-4382-8f5b-01ab83e6d97f.png)
+![image](https://user-images.githubusercontent.com/61537857/209980643-ecec2439-4f9d-4846-ad44-c6e90d270948.png)
 
+### Checkout
+
+![image](https://user-images.githubusercontent.com/61537857/209980720-a3b3d414-d413-4f05-8ee3-f8f3325b59ca.png)
+
+![image](https://user-images.githubusercontent.com/61537857/209980815-2453a9d9-fe54-4bea-a459-ad1d6186454a.png)
+
+![image](https://user-images.githubusercontent.com/61537857/209980833-b8f7747e-ae89-4e44-ad5a-bfd824855a9f.png)
+
+
+![image](https://user-images.githubusercontent.com/61537857/209980736-5d1762ab-d77f-4bbb-b0c9-05b2ce6c3955.png)
+
+![image](https://user-images.githubusercontent.com/61537857/209980771-ea4560ee-cad8-4d10-adfe-573677dc71b9.png)
+
+![image](https://user-images.githubusercontent.com/61537857/209980798-d5e0dad8-4a94-45e2-902a-5da274dc4986.png)
+
+![image](https://user-images.githubusercontent.com/61537857/209980862-e2ea3e85-9753-42e3-8ff3-88c08e486206.png)
 
 ## Future Updates
 
