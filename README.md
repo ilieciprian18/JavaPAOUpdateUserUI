@@ -56,7 +56,8 @@ Numarul din dreapta butonului de "Add" ne arata cate produse din acel tip sunt i
 
 
 #### Cos cu produse selectate ( 3 meniuri crispy, 2 twister, 1 so good box, 1 ceva box )
-![image](https://user-images.githubusercontent.com/61537857/209980643-ecec2439-4f9d-4846-ad44-c6e90d270948.png)
+![image](https://user-images.githubusercontent.com/61537857/209981798-20c90132-1dce-4083-b57a-e2ba63ef45b0.png)
+
 
 ### Checkout
 
